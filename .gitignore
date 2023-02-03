@@ -45,3 +45,5 @@ _darcs
 !/datasets/*.*
 /projects/*/datasets
 
+work_dirs/
+custom_dist_train.sh
